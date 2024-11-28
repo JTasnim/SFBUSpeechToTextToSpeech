@@ -43,8 +43,7 @@ The **SFBU Customer Support System** is an AI-driven application designed to enh
 - Clone the repository:
 
 ```bash
-    git clone https://github.com/your-username/sfbu-customer-support-system.git
-cd sfbu-customer-support-system
+    git clone https://github.com/JTasnim/SFBUSpeechToTextToSpeech.git
 ```
 
 - Set up the .env file:
